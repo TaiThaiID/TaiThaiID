@@ -1,8 +1,9 @@
-# 👋 Hi, I'm **[Your Name]**
+# 👋 Hi there, I'm **Thai Tai**
 
-🚀 **IC Design Student | RTL Design | Design Verification | STA/Synthesis**
+🚀 **IC Design Student @ HCMUT-VNU-HCM | RTL Design Engineer | Design Verification Engineer | Physical Design Engineer**
 
-Currently, I'm a **third-year student** at **Ho Chi Minh City University of Technology (HCMUT)**, focusing on **RTL design, design verification, and physical design**.
+🎯 **About Me**
+I'm currently in my **third year** pursuing a Bachelor's degree in **IC Design** at **Ho Chi Minh City University of Technology** . My passion lies in digital circuit design, verification methodologies, and the synthesis/timing closure process.
 
 ---
 
@@ -14,9 +15,9 @@ Currently, I'm a **third-year student** at **Ho Chi Minh City University of Tech
 
 ---
 
-## 🔨 **Tech Stack**
+## 🔨 **Technical Skills**
 
-🔹 **Languages**: SystemVerilog, Verilog, C, Assembly  
+🔹 **Languages**: SystemVerilog, Verilog, C, Assembly, Python
 🔹 **EDA Tools**: Cadence Genus, Cadence Xcelium, ModelSim, Quartus Prime  
 🔹 **Analog Design**: Cadence Virtuoso, LTspice  
 🔹 **Platforms**: Intel/Altera FPGA  
@@ -26,11 +27,8 @@ Currently, I'm a **third-year student** at **Ho Chi Minh City University of Tech
 
 ## 📫 **Let's Connect!**
 
-📌 **LinkedIn**: [Your Name](your-linkedin-url)  
-📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-
-🌟 **Feel free to explore my projects and reach out for collaborations!** 🚀
+📌 **LinkedIn**: [Thai Tai](your-linkedin-url)  
+📧 **Email**: [tai.thai108k23@hcmut.edu.vn](mailto:tai.thai108k23@hcmut.edu.vn)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
