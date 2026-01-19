@@ -4,7 +4,7 @@
 
 🎯 **About Me**
 
-I'm currently in my **third year** pursuing a Bachelor's degree in **IC Design** at **Ho Chi Minh City University of Technology** . My passion lies in digital circuit design, verification methodologies, and the synthesis/timing closure process.
+I'm currently in my **third year** pursuing a Bachelor's degree in **IC Design** at **Ho Chi Minh City University of Technology**. My passion lies in digital circuit design, verification methodologies, and the synthesis/timing closure process.
 
 ---
 
