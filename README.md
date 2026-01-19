@@ -19,6 +19,7 @@ I'm currently in my **third year** pursuing a Bachelor's degree in **IC Design**
 ## 🔨 **Technical Skills**
 
 🔹 **Languages**: SystemVerilog, Verilog, C, Assembly, Python
+
 🔹 **EDA Tools**: Cadence Genus, Cadence Xcelium, ModelSim, Quartus Prime  
 🔹 **Analog Design**: Cadence Virtuoso, LTspice  
 🔹 **Platforms**: Intel/Altera FPGA  
