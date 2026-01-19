@@ -30,3 +30,7 @@ Currently, I'm a **third-year student** at **Ho Chi Minh City University of Tech
 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
 
 🌟 **Feel free to explore my projects and reach out for collaborations!** 🚀
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
