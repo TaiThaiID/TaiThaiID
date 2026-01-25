@@ -10,23 +10,23 @@ I'm currently in my **third year** pursuing a Bachelor's degree in **IC Design**
 
 ## 💡 **What I Do**
 
-✅ **RTL Design**: Designing digital circuits using **SystemVerilog/Verilog**  
-✅ **Design Verification**: Functional verification with **SystemVerilog** and **UVM**  
-✅ **STA/Synthesis**: Logic synthesis and timing analysis using **Cadence Genus**
+**RTL Design**: Designing digital circuits using **SystemVerilog/Verilog**  
+**Design Verification**: Functional verification with **SystemVerilog** and **UVM**  
+**STA/Synthesis**: Logic synthesis and timing analysis using **Cadence Genus**
 
 ---
 
-## 🔨 **Technical Skills**
+## **Technical Skills**
 
-🔹 **Languages**: SystemVerilog, Verilog, C, Assembly, Python
+**Languages**: SystemVerilog, Verilog, C, Assembly, Python
 
-🔹 **EDA Tools**: Cadence Genus, Cadence Xcelium, ModelSim, Quartus Prime  
+**EDA Tools**: Cadence Genus, Cadence Xcelium, ModelSim, Quartus Prime  
 
-🔹 **Analog Design**: Cadence Virtuoso, LTspice  
+**Analog Design**: Cadence Virtuoso, LTspice  
 
-🔹 **Platforms**: Intel/Altera FPGA  
+**Platforms**: Intel/Altera FPGA  
 
-🔹 **Operating Systems**: Linux, Windows
+**Operating Systems**: Linux, Windows
 
 ---
 
