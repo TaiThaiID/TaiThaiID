@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Thai Tai**
 
-**IC Design Student @ HCMUT-VNU-HCM | RTL Design Engineer | Design Verification Engineer | Physical Design Engineer**
+**IC Design Student @ HCMUT-VNU-HCM | RTL Design Engineer | Design Verification Engineer**
 
 🎯 **About Me**
 
