@@ -32,8 +32,7 @@ I'm currently in my **third year** pursuing a Bachelor's degree in **IC Design**
 
 ## 📫 **Reach Out to me!**
 
-📌 **LinkedIn**: [Thai Tai]([www.linkedin.com/in/
-tài-thái-b2a632417](https://www.linkedin.com/in/t%C3%A0i-th%C3%A1i-b2a632417/?skipRedirect=true))  
+📌 **LinkedIn**: [Thai Tai](https://www.linkedin.com/in/t%C3%A0i-th%C3%A1i-b2a632417/?skipRedirect=true)  
 📧 **Email**: [tai.thai108k23@hcmut.edu.vn](mailto:tai.thai108k23@hcmut.edu.vn)
 
 ---
